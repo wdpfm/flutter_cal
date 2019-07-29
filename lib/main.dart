@@ -55,7 +55,7 @@ class _MyAppState extends State<MyApp> {
         appBar: AppBar(
           backgroundColor: MyApp.PAGE_COLOR,
           title: Text(
-            '计算器',
+            '小鸡计算器',
             style: TextStyle(color: Color(0xffff6fc7)),
           ),
           centerTitle: true,
